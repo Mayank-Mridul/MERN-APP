@@ -64,7 +64,7 @@ const data = {
       _id: '6',
       name: 'Adidas Fit Pant',
       category: 'Pants',
-      image: '/images/p6.jpg',
+      image: '/images/p1.jpg',
       price: 139,
       countInStock: 12,
       brand: 'Adidas',
